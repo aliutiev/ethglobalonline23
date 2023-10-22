@@ -1,0 +1,3 @@
+yarn compile to compile the contract.
+yarn deploy:scroll Testnet to deploy the contract on the Scroll Sepolia Testnet.
+yarn test for hardhat tests.
